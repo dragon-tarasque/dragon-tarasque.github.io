@@ -1,0 +1,12 @@
+{
+    "referals": [
+        {
+            "name": "plunker",
+            "url": "https://jptoto.best/ayodaftar",
+            "referers": [{
+                "url": "other",
+                "click": 0
+            }]
+        }
+    ]
+}
