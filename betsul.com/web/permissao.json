@@ -1,0 +1,205 @@
+{"codResposta":"000","mensagem":"","aoVivo":true,"pin":true,"bolao":true,"eticket":false,"slot":true,"descontoGanho":0,"fatorGanhoFixo":0,"valorMaxPremio":300000,"nomeFantasia":"betsul","pathAssets":"betsul","exibirCampoLive":true,"exibirEstatistica":true,"exibirLogo":true,"exibirPromocoes":true,"linkAplicativo":"","longoPrazo":true,"exibirEsportes":true,"contatos":[{"tipo":2,"metadata":{"key":"a0a937802cd1d7e683a9465da86a0480","channelID":61513,"department":35497,"subDepartments":{"liberacao-antecipada":41273,"validacao-cadastro":41272,"emails-gerais":41274}}}],"produtosPermitidos":[4,1,2],"permiteCashOut":false,"pinExterno":true,"templateCadastro":{"register":{"overrideLogin":"email","secoes":[{"id":1,"titulo":"Passo 1"},{"id":2,"titulo":"Passo 2"}],"inputs":[{"id":"MODAL_CADASTRO_PIN/CPF","label":"CPF*","type":"text","typeMask":"isCpf","maxLength":14,"nameRequest":"cpf","secao":1},{"id":"MODAL_CADASTRO_PIN/CODE","label":"Código Promocional","type":"text","nameRequest":"codigoPromocional","secao":1},{"id":"MODAL_CADASTRO_PIN/NOME","label":"Nome*","type":"text","maxLength":30,"nameRequest":"nome","width":12,"secao":2},{"id":"MODAL_CADASTRO_PIN/SOBRENOME","label":"Sobrenome*","type":"text","maxLength":30,"nameRequest":"sobrenome","width":12,"secao":2},{"id":"MODAL_CADASTRO_PIN/DATA_NASCIMENTO","label":"Data de Nascimento*","type":"date","maxLength":8,"nameRequest":"dataNascimento","secao":2},[{"id":"MODAL_CADASTRO_PIN/COD_AREA","label":"Área","type":"text","maxLength":3,"nameRequest":"codArea","disabled":true,"width":3,"value":"+55","secao":2},{"id":"MODAL_CADASTRO_PIN/TELEFONE","label":"Telefone celular*","type":"text","typeMask":"isCelular","maxLength":15,"nameRequest":"telefone","width":9,"secao":2}],{"id":"MODAL_CADASTRO_PIN/EMAIL","label":"Email*","type":"text","typeMask":"isEmail","maxLength":100,"nameRequest":"email","secao":2},{"id":"MODAL_CADASTRO_PIN/SENHA","label":"Senha*","type":"password","typeMask":"isPassword","maxLength":20,"nameRequest":"senha","confirmInput":{"label":{"id":"MODAL_CADASTRO_PIN/CONFIRMAR_SENHA","defaultMessage":"Confirmar Senha*"}},"secao":2},{"id":"MODAL_CADASTRO_PIN/TERMOS","type":"checkbox","typeMask":"isTermos","nameRequest":"dados.aceiteTermos","value":true,"secao":2},{"id":"MODAL_CADASTRO_PIN/ACEITE_EMAIL","type":"checkbox","nameRequest":"dados.aceiteEnvioEmail","secao":2},{"id":"MODAL_CADASTRO_PIN/ACEITE_SMS","type":"checkbox","nameRequest":"dados.aceiteEnvioSMS","secao":2},{"id":"MODAL_CADASTRO_PIN/DADOS_BY_CPF","type":"hidden","value":true,"nameRequest":"dadosByCPF","secao":2}]},"update":{"overrideLogin":"login","inputs":[{"id":"FORM_ACCOUNT/NOME","label":"Nome","type":"text","maxLength":30,"nameRequest":"nome","disabled":true,"width":6},{"id":"FORM_ACCOUNT/SOBRENOME","label":"Sobrenome","type":"text","maxLength":30,"nameRequest":"sobrenome","disabled":true,"width":6},{"id":"FORM_ACCOUNT/DATA_NASCIMENTO","label":"Data de Nascimento","type":"date","maxLength":8,"nameRequest":"dataNascimento","disabled":true,"width":6},{"id":"FORM_ACCOUNT/CPF","label":"CPF","type":"text","typeMask":"isCpf","maxLength":14,"nameRequest":"cpf","disabled":true,"width":6},[{"id":"FORM_ACCOUNT/COD_AREA","label":"Área","type":"text","maxLength":3,"nameRequest":"codArea","disabled":true,"width":2},{"id":"FORM_ACCOUNT/TELEFONE","label":"Telefone celular","type":"text","typeMask":"isCelular","maxLength":15,"nameRequest":"telefone","width":10}],{"id":"FORM_ACCOUNT/EMAIL","label":"Email","type":"text","typeMask":"isEmail","maxLength":100,"nameRequest":"emailPadrao"},{"id":"FORM_ACCOUNT/ACEITE_EMAIL","label":"Aceito receber novidades e ofertas por E-MAIL","type":"checkbox","nameRequest":"dados.aceiteEnvioEmail","width":6},{"id":"FORM_ACCOUNT/ACEITE_SMS","label":"Aceito receber novidades e ofertas por SMS","type":"checkbox","nameRequest":"dados.aceiteEnvioSMS","width":6}]}},"rodape":{
+  "customClass": {
+    "containerGray": "container0-4"
+  },
+  "type": 3,
+  "dados": {"parceiros": [
+      {
+        "position": [
+          "sidebar",
+          "footer"
+        ],
+        "href": "https://www.parceirosbetsul.com/",
+        "class": "parceiros-betsul",
+        "name": "parceiros"
+      }
+    ],
+    "jogoDoBem": true,
+    "searchPinPay": false,
+    "license": [
+      {
+        "type": "curacao",
+        "metadata": {
+          "id": "59253bf4-77d6-4221-8ea9-6135f483b77a",
+          "script": "https://59253bf4-77d6-4221-8ea9-6135f483b77a.snippet.antillephone.com/apg-seal.js"
+        }
+      }
+    ],
+    "reclameAqui": {
+      "id": "V3c5R21OOE15ZWNGaGl6LTpiZXRzdWw=",
+      "target": "reputation-ra",
+      "model": 2
+    },
+    "poweredBy": {
+      "href": "https://vibragaming.com/pt-br/",
+      "class": "footer-logo__vibra",
+      "name": "Vibra Gaming"
+    },
+    "secureSite": [
+      "gli"
+    ],
+    "social": [
+      {
+        "label": {
+          "id": "FOOTER/SOCIAL_FACEBOOK",
+          "defaultMessage": "Facebook"
+        },
+        "link": "https://facebook.com/betsulOficial"
+      },
+      {
+        "label": {
+          "id": "FOOTER/SOCIAL_INSTAGRAM",
+          "defaultMessage": "Instagram"
+        },
+        "link": "https://instagram.com/betsulOficial"
+      },
+      {
+        "label": {
+          "id": "FOOTER/SOCIAL_TWITTER",
+          "defaultMessage": "X-Twitter"
+        },
+        "link": "https://twitter.com/betsulOficial"
+      }
+    ],
+    "information": [
+      {
+        "label": {
+          "id": "FOOTER/QUEM_SOMOS",
+          "defaultMessage": "Quem Somos"
+        },
+        "link": "/quem-somos"
+      },
+      {
+        "label": {
+          "id": "FOOTER/JOGO_CONSCIENTE",
+          "defaultMessage": "Jogo Consciente"
+        },
+        "link": "/jogo-consciente"
+      },
+      {
+        "label": {
+          "id": "FOOTER/PROMOCOES",
+          "defaultMessage": "Promoções"
+        },
+        "link": "/promocoes"
+      },
+      {
+        "label": {
+          "id": "FOOTER/NOTICIAS",
+          "defaultMessage": "Notícias"
+        },
+        "link": "/noticias"
+      }
+    ],
+    "institutional": [
+      {
+        "label": {
+          "id": "FOOTER/ATENDIMENTO",
+          "defaultMessage": "Atendimento"
+        },
+        "link": "/atendimento"
+      },
+      {
+        "label": {
+          "id": "FOOTER/PARCEIROS_BETSUL",
+          "defaultMessage": "Parceiros Betsul"
+        },
+        "link": "https://www.parceirosbetsul.com"
+      },
+      {
+        "label": {
+          "id": "FOOTER/COMO_APOSTAR",
+          "defaultMessage": "Como Apostar"
+        },
+        "link": "/como-apostar"
+      },
+      {
+        "label": {
+          "id": "FOOTER/POLITICA_DE_PRIVACIDADE",
+          "defaultMessage": "Politica de Privacidade"
+        },
+        "link": "/politica-de-privacidade"
+      },
+      {
+        "label": {
+          "id": "FOOTER/TERMOS_E_CONDICOES",
+          "defaultMessage": "Termos e Condições"
+        },
+        "link": "/termos-e-condicoes"
+      },
+      {
+        "label": {
+          "id": "FOOTER/REGRAS_E_PROCEDIMENTOS",
+          "defaultMessage": "Regras e Procedimentos"
+        },
+        "link": "/regras-procedimentos"
+      }
+    ],
+    "paymentMethods": [
+      {
+        "label": {
+          "id": "GLOBAL_MESSAGES/PIX",
+          "defaultMessage": "Pix"
+        },
+        "image": "pix-brand"
+      },
+      {
+        "label": {
+          "id": "GLOBAL_MESSAGES/VCREDITOS",
+          "defaultMessage": "VCreditos"
+        },
+        "image": "vcreditos-brand"
+      },
+      {
+        "label": {
+          "id": "GLOBAL_MESSAGES/PAY4FUN",
+          "defaultMessage": "Pay4Fun"
+        },
+        "image": "pay4fun-brand"
+      },
+      {
+        "label": {
+          "id": "GLOBAL_MESSAGES/CARTAO_CREDITO",
+          "defaultMessage": "Cartão de Crédito"
+        },
+        "image": "cc-brand"
+      },
+      {
+        "label": {
+          "id": "GLOBAL_MESSAGES/AME",
+          "defaultMessage": "Ame Digital"
+        },
+        "image": "ame-brand"
+      },
+      {
+        "label": {
+          "id": "GLOBAL_MESSAGES/PICPAY",
+          "defaultMessage": "PicPay"
+        },
+        "image": "picpay-brand"
+      }
+    ],
+    "disclaimer": [
+      {
+        "text": "A plataforma Betsul é operada pela BS3 N.V, empresa devidamente constituída e licenciada pelas autoridades reguladoras do Governo de Curaçao e certificada sob o número de licença 8048/JAZ2019-017 emitido pela Curaçao eGaming.",
+        "languages": {
+          "pt": "A plataforma Betsul é operada pela BS3 N.V, empresa devidamente constituída e licenciada pelas autoridades reguladoras do Governo de Curaçao e certificada sob o número de licença 8048/JAZ2019-017 emitido pela Curaçao eGaming.",
+          "en": "The Betsul platform is operated by BS3 N.V, a company duly incorporated and licensed by the regulatory authorities of the Government of Curacao and certified under license number 8048/JAZ2019-017 issued by Curacao eGaming.",
+          "es": "La plataforma Betsul es operada por BS3 N.V, una empresa debidamente constituida y autorizada por las autoridades reguladoras del Gobierno de Curazao y certificada bajo el número de licencia 8048/JAZ2019-017 emitida por Curacao eGaming."
+        },
+        "image": "data:image/png;base64,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"
+      }
+    ],
+    "responsible": [
+      {
+        "text": "Veja nossa página de Jogo Responsável para mais detalhes e as ferramentas disponíveis. Jogue com responsabilidade: www.gamblersanonymous.org",
+        "languages": {
+          "pt": "Veja nossa página de Jogo Responsável para mais detalhes e as ferramentas disponíveis. Jogue com responsabilidade: www.gamblersanonymous.org",
+          "en": "See our Responsible Gaming page for more details and the tools available. Play Responsibly:",
+          "es": "Consulta nuestra página de Juego Responsable para obtener más detalles y conocer las herramientas disponibles. Juega responsablemente:"
+        },
+        "ageText": "18+"
+      }
+    ]
+  }
+},"depositoRapido":false,"verificacaoConta":true,"codigosPromocionais":{},"templateMenu":{"esportesFixo":[{"id":1,"slug":"futebol","name":"Futebol","nivelMenu":"1"},{"id":2,"slug":"mma-ufc","name":"MMA/UFC","nivelMenu":"2"},{"id":8,"slug":"futsal","name":"Futsal","nivelMenu":"8"},{"id":4,"slug":"basquete","name":"Basquete","nivelMenu":"4"}],"paisesFixos":{"1":[{"id":-1,"slug":"internacional","name":"Internacional","nivelMenu":"1_internacional"},{"id":-2,"slug":"brasil","name":"Brasil","nivelMenu":"1_brasil"}],"2":[{"id":-1,"slug":"ufc","name":"UFC","nivelMenu":"2_ufc"},{"id":-2,"slug":"bellator","name":"Bellator","nivelMenu":"2_bellator"}],"4":[{"id":-1,"slug":"brasil","name":"Brasil","nivelMenu":"4_brasil"},{"id":-2,"slug":"eua","name":"EUA","nivelMenu":"4_eua"}],"8":[{"id":-1,"slug":"brasil","name":"Brasil","nivelMenu":"8_brasil"}]},"campeonatosFixos":{"1_internacional":[{"id":-1,"slug":"copa-america","name":"Copa América"},{"id":-2,"slug":"copa-do-mundo","name":"Copa do Mundo"},{"id":-3,"slug":"copa-libertadores-fase-final","name":"Copa Libertadores - Fase Final"},{"id":-4,"slug":"copa-sul-americana","name":"Copa Sul-Americana"}],"1_brasil":[{"id":-1,"slug":"brasileirao-serie-a","name":"Brasileirão Série A"},{"id":-2,"slug":"brasileirao-serie-b","name":"Brasileirão Série B"},{"id":-3,"slug":"brasileirao-serie-c","name":"Brasileirão Série C"},{"id":-4,"slug":"brasileirao-serie-d","name":"Brasileirão Série D"},{"id":-5,"slug":"brasileirao-feminino","name":"Brasileirão Feminino"},{"id":-5,"slug":"copa-do-brasil","name":"Copa do Brasil"}],"2_ufc":[{"id":-1,"slug":"internacional","name":"Internacional"}],"2_bellator":[{"id":-1,"slug":"internacional","name":"Internacional"}],"4_brasil":[{"id":-1,"slug":"lbf","name":"LBF"}],"4_eua":[{"id":-1,"slug":"wnba","name":"WNBA"}],"8_brasil":[{"id":-1,"slug":"lnf","name":"LNF"}]}},"disputaIndireta":true,"permiteStream":true,"jogoResponsavel":["deposito","auto-suspensao","auto-exclusao"],"jogoDoBem":true,"exibirJogoConsciente":true,"metodoValidacao":{"saque":["cadastro","email"],"deposito":[{"metodo":16,"validar":["email","telefone"]},{"metodo":13,"validar":["email","telefone"]},{"metodo":18,"validar":["email","telefone"]},{"metodo":21,"validar":["email"]}]},"tagManager":"GTM-58RD6NV","permiteSlotFun":true,"menuHeader":[{"id": "MENU_HEADER/ESPORTES", "label": "Esportes", "urlPath": "/"}, {"id": "MENU_HEADER/CASSINO", "label": "Cassino", "filtro": "novidade,popular,spin,cassino,video-bingo,scratch,explosao,tematico,epico,acumulado,buyfeature,esportivo,progressivo,mesa,poker,linhas,drops_wins,animal_cassino,blue-print-cass,evolution-cass,ezugi-cass,global-cass,gren-tube-cass,igt-cass,isoft-bet-cass,mga-cass,mobilots-cass,netend-cass,pg-soft-cass,play-go-cass,play-tech-cass,skywind-cass,spribe-cass,triple-cherry-cass,wms-cass,pipa-cass,big-time-cass", "urlPath": "/cassino-online"}, {"id": "MENU_HEADER/CASSINO-AO-VIVO", "label": "Cassino ao Vivo", "filtro": "blackjack,baccarat,game_show,roleta,mesa_live,blue-print-live,evolution-live,ezugi-live,global-live,gren-tube-live,igt-live,isoft-bet-live,mancala-live,mobilots-live,mga-live,netend-live,pg-soft-live,play-go-live,play-tech-live,pragmatic-live,skywind-live,triple-cherry-live,spribe-live,vibra-live,wms-live,pipa-live,big-time-live", "urlPath": "/cassino-ao-vivo"}, {"id": "MENU_HEADER/INSTANTANEAS", "label": "Instantâneas", "filtro": "novidade,esporte,spin_inst,animal,classic,blue-print-inst,evolution-ins,global-inst,gren-tube-inst,isoft-bet-inst,ezugi-inst,igt-inst,mga-inst,mancala-inst,netend-inst,mobilots-inst,pg-soft-inst,play-go-inst,pragmatic-inst,play-tech-inst,skywind-inst,triple-cherry-inst,spribe-inst,vibra-inst,wms-inst,big-time-inst", "urlPath": "/instantaneas"}, {"id": "MENU_HEADER/E_SPORTS", "label": "E-Sports", "urlPath": "/esports"}],"header":{"disclaimer": {"class": "primary", "active": false, "message": "Para garantir ainda mais a sua segurança e diversão faremos uma manutenção rápida nos nossos serviços, hoje das 23:30 às 02:00", "endDateTime": "2024-03-28T02:00", "beginDateTime": "2024-03-27T23:00", "displayTimeSeconds": 0}},"templateVersionPage":{"offers": "2", "sports": {"metadata": {"mostrarDestaquesCassino": true}}},"desabilitaComprovanteResidencia":false,"recuperarSenha":"email","lotericosId":"2848","hotjar":null,"gameTrackerConfig":[{"idFornecedor":3,"metadata":[{"idTipoTracker":1,"url":"https://widgets.sir.sportradar.com/27994bc07914f4e706d7f2c1998dc949/widgetloader"}]},{"idFornecedor":6,"metadata":[{"idTipoTracker":2,"bookMakerName":"betsul","url":"https://bsdemo.betstream.betgenius.com/betstream-view/page/betgenius/footballscorecentre?eventId=1234"},{"idTipoTracker":3,"bookMakerName":"betsul","url":"https://matchcenter.\u003csport\u003e.geniussports.com/widgets/\u003ctracker\u003e/\u003cbookmakerName\u003e/\u003cbookmakerFixtureId\u003e"},{"idTipoTracker":4,"bookMakerName":"betsul","url":"https://gsm-widgets-uat.betstream.betgenius.com/americanfootballgametracker?group[0][fixtureId]=\u003cfixtureId\u003e\u0026productName=\u003cproductName\u003e"},{"idTipoTracker":5,"bookMakerName":"betsul","url":"https://gsm-widgets-uat.betstream.betgenius.com/americanfootballgametracker?group[0][fixtureId]=\u003cfixtureId\u003e\u0026productName=\u003cproductName\u003e"}]}],"tempoMaxCancelamento":15,"xtremePushConfig":{"frame":"https://prod.webpu.sh/kH0eycQtaW8JfICCTOhJLGOqyHg5jvuU/sdk.js","subscribe":"https://prod.webpu.sh/kH0eycQtaW8JfICCTOhJLGOqyHg5jvuU/sdk.js","notification":"https://prod.webpu.sh/kH0eycQtaW8JfICCTOhJLGOqyHg5jvuU/sdk.js"},"breakPeriod":[{"qtdDays": 1}, {"qtdDays": 30}, {"qtdDays": 180}, {"qtdDays": 365}],"displayCookies":"full","showOddsBetbuilder":true}
