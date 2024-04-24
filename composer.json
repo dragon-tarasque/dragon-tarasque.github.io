@@ -1,6 +1,6 @@
 {
     "require": {
-        "symfony/var-dumper": "^7.0",
-        "ipinfo/ipinfo": "^3.1"
+        "symfony/var-dumper": "*",
+        "ipinfo/ipinfo": "*"
     }
 }
