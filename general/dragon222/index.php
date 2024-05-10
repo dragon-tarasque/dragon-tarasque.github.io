@@ -11,29 +11,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
-    <title>RAJAGACOR: Situs Rajagacor Slot Gacor <?=date('Y');?> Gampang Menang Hari Ini</title>
-    <meta name="description" content="RAJAGACOR daftar situs judi raja slot gacor <?=date('Y');?> gampang menang maxwin hari ini pada provider slot online pragmatic play lapak pusat anti rungkat.">
-    <meta name="keywords" content="RAJAGACOR,slot,judi slot RAJAGACOR">
+    <title>SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag <?=date('Y');?></title>
+    <meta name="description" content="Situs Slot DRAGON222 adalah sebuah website judi online yang menyediakan akun demo slot PG Soft Anti Lag dan Gratis di Indonesia.">
+    <meta name="keywords" content="dragon222, slot, pg soft, slot demo, demo slot pg soft">
     <meta name="robots" content="index, follow">
     <meta name="page-locale" content="id,en">
     <meta content="true" name="HandheldFriendly">
     <meta content="width" name="MobileOptimized">
-    <meta property="og:title" content="RAJAGACOR: Situs Rajagacor Slot Gacor <?=date('Y');?> Gampang Menang Hari Ini">
-    <meta property="og:description" content="RAJAGACOR daftar situs judi raja slot gacor <?=date('Y');?> gampang menang maxwin hari ini pada provider slot online pragmatic play lapak pusat anti rungkat.">
-    <meta property="og:url" content="https://amplittlegiant.com/general/rajagacor">
-    <meta property="og:site_name" content="RAJAGACOR">
-    <meta property="og:author" content="RAJAGACOR">
-    <meta property="og:image" content="https://cdn.amplittlegiant.com/banners/rajagacor-situs-slot-online-terbaik.jpg">
+    <meta property="og:title" content="SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag <?=date('Y');?>">
+    <meta property="og:description" content="Situs Slot DRAGON222 adalah sebuah website judi online yang menyediakan akun demo slot PG Soft Anti Lag dan Gratis di Indonesia.">
+    <meta property="og:url" content="https://amplittlegiant.com/general/dragon222">
+    <meta property="og:site_name" content="DRAGON222">
+    <meta property="og:author" content="DRAGON222">
+    <meta property="og:image" content="https://cdn.amplittlegiant.com/banners/dragon222-banner.jpg">
     <meta name="og:locale" content="ID_id">
     <meta name="og:type" content="website">
     <meta name="rating" content="general">
-    <meta name="author" content="RAJAGACOR">
+    <meta name="author" content="DRAGON222">
     <meta name="distribution" content="global">
-    <meta name="publisher" content="RAJAGACOR">
+    <meta name="publisher" content="DRAGON222">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="https://cdn.amplittlegiant.com/favicon/rajagacor.webp" type="image/x-icon">
+    <link rel="shortcut icon" href="https://cdn.amplittlegiant.com/favicon/dragon222.webp" type="image/x-icon">
     <link rel="canonical" href="<?=$canonical;?>">
     <style amp-boilerplate>
         body {
@@ -320,7 +320,6 @@
         }
 
         #stars::before {
-            background-image: background: rgb(7, 93, 27);
             background: linear-gradient(90deg, rgba(7, 93, 27, 1) 10%, rgba(2, 0, 36, 1) 98%);
             background-size: 50px 50px;
             opacity: .5
@@ -452,42 +451,20 @@
         <div class="sap">
             <div class="seosap">
                 <br>
-                <amp-img height="90" width="320" alt="RAJAGACOR"
-                    src="https://cdn.amplittlegiant.com/logo/rajagacor.svg"></amp-img>
+                <amp-img height="90" width="320" alt="DRAGON222"
+                    src="https://cdn.amplittlegiant.com/logo/dragon222.webp"></amp-img>
                 <br>
                 <br>
-                <!-- <div class="jptoto-container block1">
-                    <a href="https://rajagacor.best/yukdaftar">
-                        <button class="jptoto">
-                            <img src="https://i.ibb.co/x51zsmp/loud.png" width="20px">
-                        </button>
-                    </a>
-                    <a href="https://rajagacor.best/yukmasuk">
-                        <button class="jptoto">
-                            <img src="https://i.ibb.co/C0qvgYc/exit.png" width="20px">
-                        </button>
-                    </a>
-                    <a href="https://wa.me/qr/DZQ7KGVNQA2UK1">
-                        <button class="jptoto">
-                            <img src="https://i.ibb.co/qNV7L4v/wa.png" width="20px">
-                        </button>
-                    </a>
-                    <a href="https://wa.me/qr/DZQ7KGVNQA2UK1">
-                        <button class="jptoto">
-                            <img src="https://i.ibb.co/zfxFX3W/chat.png" width="20px">
-                        </button>
-                    </a>
-                </div> -->
                 <div>
-                    <a href="https://rajagacor.best/yukmasuk" target="_blank" rel="noopener noreferrer nofollow">
-                        <amp-img height="220" width="250" alt="RAJAGACOR" src="https://cdn.amplittlegiant.com/banners/rajagacor-situs-slot-online-terbaik.jpg"></amp-img>
+                    <a href="https://dragon222vpn.net/masukdisini" target="_blank" rel="noopener noreferrer nofollow">
+                        <amp-img height="220" width="250" alt="DRAGON222" src="https://cdn.amplittlegiant.com/banners/dragon222-banner.jpg"></amp-img>
                     </a>
                 </div>
-                <h2>RAJAGACOR: Situs Rajagacor Slot Gacor <?=date('Y');?> Gampang Menang Hari Ini</h2>
+                <h2>SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag <?=date('Y');?></h2>
                 <div class="s-a-p">
-                    <a href="https://rajagacor.best/yukdaftar" target="_blank" rel="noopener noreferrer nofollow">
+                    <a href="https://dragon222vpn.net/daftarsini" target="_blank" rel="noopener noreferrer nofollow">
                         <button class="btn2">
-                            <strong>DAFTAR RAJAGACOR</strong>
+                            <strong>DAFTAR DRAGON222</strong>
                             <div id="container-stars">
                                 <div id="stars"></div>
                             </div>
@@ -498,13 +475,13 @@
                         </button>
                     </a>
                     <br>
-                    <a href="https://rajagacor.best/yukmasuk" target="_blank" rel="noopener noreferrer nofollow"
+                    <a href="https://dragon222vpn.net/masukdisini" target="_blank" rel="noopener noreferrer nofollow"
                         class="block">LOGIN</a>
-                    <a href="https://rajagacor.best/yukdaftar" target="_blank" rel="noopener noreferrer nofollow"
+                    <a href="https://dragon222vpn.net/daftarsini" target="_blank" rel="noopener noreferrer nofollow"
                         class="block">DAFTAR</a>
                 </div>
             </div>
-            <span style="text-align: center">&copy; <strong>RAJAGACOR</strong> <?=date('Y');?> </span>
+            <span style="text-align: center">&copy; <strong>DRAGON222</strong> <?=date('Y');?> </span>
         </div>
     </main>
 </body>
