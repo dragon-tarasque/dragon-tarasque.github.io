@@ -21,7 +21,7 @@
     <meta content="width" name="MobileOptimized">
     <meta property="og:title" content="<?=$title;?>">
     <meta property="og:description" content="Betace é um site de apostas online Jogo do Tigre que oferece jogos divertidos e lucrativos com 100% de garantia de segurança">
-    <meta property="og:url" content="https://amplittlegiant.com/general/dragon222">
+    <meta property="og:url" content="<?=$canonical;?>">
     <meta property="og:site_name" content="BETACE">
     <meta property="og:author" content="BETACE">
     <meta property="og:image" content="https://s3.amplittlegiant.com/betace/banners/betace-banner.jpg">

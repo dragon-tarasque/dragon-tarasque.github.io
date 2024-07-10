@@ -21,7 +21,7 @@
     <meta content="width" name="MobileOptimized">
     <meta property="og:title" content="<?=$title;?>">
     <meta property="og:description" content="Situs Slot DRAGON222 adalah sebuah website judi online yang menyediakan akun demo slot PG Soft Anti Lag dan Gratis di Indonesia.">
-    <meta property="og:url" content="https://amplittlegiant.com/general/dragon222">
+    <meta property="og:url" content="<?=$canonical;?>">
     <meta property="og:site_name" content="DRAGON222">
     <meta property="og:author" content="DRAGON222">
     <meta property="og:image" content="https://cdn.amplittlegiant.com/banners/dragon222-banner.jpg">
