@@ -4,6 +4,7 @@
         return header('Location: /');
     }
     $canonical = $_GET['canonical'] ?? '';
+    $title = $_GET['title'] ?? 'SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag ' . date('Y');
 ?>
 <!DOCTYPE html>
 <html amp lang="id">
@@ -11,14 +12,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
-    <title>SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag <?=date('Y');?></title>
+    <title><?=$title;?></title>
     <meta name="description" content="Situs Slot DRAGON222 adalah sebuah website judi online yang menyediakan akun demo slot PG Soft Anti Lag dan Gratis di Indonesia.">
     <meta name="keywords" content="dragon222, slot, pg soft, slot demo, demo slot pg soft">
     <meta name="robots" content="index, follow">
     <meta name="page-locale" content="id,en">
     <meta content="true" name="HandheldFriendly">
     <meta content="width" name="MobileOptimized">
-    <meta property="og:title" content="SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag <?=date('Y');?>">
+    <meta property="og:title" content="<?=$title;?>">
     <meta property="og:description" content="Situs Slot DRAGON222 adalah sebuah website judi online yang menyediakan akun demo slot PG Soft Anti Lag dan Gratis di Indonesia.">
     <meta property="og:url" content="https://amplittlegiant.com/general/dragon222">
     <meta property="og:site_name" content="DRAGON222">
@@ -451,7 +452,7 @@
         <div class="sap">
             <div class="seosap">
                 <br>
-                <amp-img height="90" width="320" alt="DRAGON222"
+                <amp-img height="70" width="320" alt="DRAGON222"
                     src="https://cdn.amplittlegiant.com/logo/dragon222.webp"></amp-img>
                 <br>
                 <br>
@@ -460,7 +461,7 @@
                         <amp-img height="220" width="250" alt="DRAGON222" src="https://cdn.amplittlegiant.com/banners/dragon222-banner.jpg"></amp-img>
                     </a>
                 </div>
-                <h2>SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag <?=date('Y');?></h2>
+                <h2><?=$title;?></h2>
                 <div class="s-a-p">
                     <a href="https://dragon222vpn.net/daftarsini" target="_blank" rel="noopener noreferrer nofollow">
                         <button class="btn2">

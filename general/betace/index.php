@@ -4,6 +4,7 @@
         return header('Location: /');
     }
     $canonical = $_GET['canonical'] ?? '';
+    $title = $_GET['title'] ?? 'Betace: A Casa de Apostas para os Amantes de Emoção e Segurança ' . date('Y');
 ?>
 <!DOCTYPE html>
 <html amp lang="pt">
@@ -11,14 +12,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
-    <title>Betace: A Casa de Apostas para os Amantes de Emoção e Segurança <?=date('Y');?></title>
+    <title><?=$title;?></title>
     <meta name="description" content="Betace é um site de apostas online Jogo do Tigre que oferece jogos divertidos e lucrativos com 100% de garantia de segurança">
     <meta name="keywords" content="betace, fortune tigre">
     <meta name="robots" content="index, follow">
     <meta name="page-locale" content="pt,en">
     <meta content="true" name="HandheldFriendly">
     <meta content="width" name="MobileOptimized">
-    <meta property="og:title" content="Betace: A Casa de Apostas para os Amantes de Emoção e Segurança <?=date('Y');?>">
+    <meta property="og:title" content="<?=$title;?>">
     <meta property="og:description" content="Betace é um site de apostas online Jogo do Tigre que oferece jogos divertidos e lucrativos com 100% de garantia de segurança">
     <meta property="og:url" content="https://amplittlegiant.com/general/dragon222">
     <meta property="og:site_name" content="BETACE">
@@ -460,7 +461,7 @@
                         <amp-img height="220" width="250" alt="BETACE" src="https://s3.amplittlegiant.com/betace/banners/betace-banner.jpg"></amp-img>
                     </a>
                 </div>
-                <h2>Betace: A Casa de Apostas para os Amantes de Emoção e Segurança <?=date('Y');?></h2>
+                <h2><?=$title;?></h2>
                 <div class="s-a-p">
                     <a href="https://ffh.betace.com/register" target="_blank" rel="noopener noreferrer nofollow">
                         <button class="btn2">
