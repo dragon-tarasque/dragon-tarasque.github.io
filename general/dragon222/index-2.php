@@ -5,7 +5,7 @@
     }
     $canonical = $_GET['canonical'] ?? '';
     $title = $_GET['title'] ?? 'SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag ' . date('Y');
-    $description = $_GET['description'] ?? 'Situs Slot DRAGON222 adalah sebuah website judi online yang menyediakan akun demo slot PG Soft Anti Lag dan Gratis di Indonesia.';
+    $description = $_GET['description'] ?? 'DRAGON222 adalah situs slot gacor gampang menang yang sedang populer dengan slot dragon dimana terbukti banyak memberikan bonus jackpot hingga x500. Nikmati petualangan mencari kemenangan dan keseruan dimulai dari daftar DRAGON222 slot sekarang juga!';
 ?>
 <!DOCTYPE html>
 <html amp lang="id">

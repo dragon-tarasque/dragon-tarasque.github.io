@@ -5,6 +5,7 @@
     }
     $canonical = $_GET['canonical'] ?? '';
     $title = $_GET['title'] ?? 'Betace: A Casa de Apostas para os Amantes de Emoção e Segurança ' . date('Y');
+    $description = $_GET['description'] ?? 'Betace é um site de apostas online Jogo do Tigre que oferece jogos divertidos e lucrativos com 100% de garantia de segurança';
 ?>
 <!DOCTYPE html>
 <html amp lang="pt">
@@ -13,14 +14,14 @@
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
     <title><?=$title;?></title>
-    <meta name="description" content="Betace é um site de apostas online Jogo do Tigre que oferece jogos divertidos e lucrativos com 100% de garantia de segurança">
+    <meta name="description" content="<?=$description;?>">
     <meta name="keywords" content="betace, fortune tigre">
     <meta name="robots" content="index, follow">
     <meta name="page-locale" content="pt,en">
     <meta content="true" name="HandheldFriendly">
     <meta content="width" name="MobileOptimized">
     <meta property="og:title" content="<?=$title;?>">
-    <meta property="og:description" content="Betace é um site de apostas online Jogo do Tigre que oferece jogos divertidos e lucrativos com 100% de garantia de segurança">
+    <meta property="og:description" content="<?=$description;?>">
     <meta property="og:url" content="<?=$canonical;?>">
     <meta property="og:site_name" content="BETACE">
     <meta property="og:author" content="BETACE">

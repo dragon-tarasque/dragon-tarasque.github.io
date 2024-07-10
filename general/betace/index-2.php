@@ -4,38 +4,38 @@
         return header('Location: /');
     }
     $canonical = $_GET['canonical'] ?? '';
-    $title = $_GET['title'] ?? 'SLOT DRAGON222 - Website Resmi Demo Slot PG Soft Anti Lag ' . date('Y');
-    $description = $_GET['description'] ?? 'Situs Slot DRAGON222 adalah sebuah website judi online yang menyediakan akun demo slot PG Soft Anti Lag dan Gratis di Indonesia.';
+    $title = $_GET['title'] ?? 'Betace: A Casa de Apostas para os Amantes de Emoção e Segurança ' . date('Y');
+    $description = $_GET['description'] ?? 'Descubra como ganhar com Fortune Tiger na BETACE em 2024! Pagamentos instantâneos via Pix, bônus e cashback semanal garantem uma experiência lucrativa.';
 ?>
 <!DOCTYPE html>
-<html amp lang="id">
+<html amp lang="pt">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,maximum-scale=1">
     <meta http-equiv="content-language" content="id">
     <title><?=$title;?></title>
     <meta name="description" content="<?=$description;?>">
-    <meta name="keywords" content="dragon222, slot, pg soft, slot demo, demo slot pg soft">
+    <meta name="keywords" content="betace, fortune tigre">
     <meta name="robots" content="index, follow">
-    <meta name="page-locale" content="id,en">
+    <meta name="page-locale" content="pt,en">
     <meta content="true" name="HandheldFriendly">
     <meta content="width" name="MobileOptimized">
     <meta property="og:title" content="<?=$title;?>">
     <meta property="og:description" content="<?=$description;?>">
     <meta property="og:url" content="<?=$canonical;?>">
-    <meta property="og:site_name" content="DRAGON222">
-    <meta property="og:author" content="DRAGON222">
-    <meta property="og:image" content="https://cdn.amplittlegiant.com/banners/dragon222-banner.jpg">
-    <meta name="og:locale" content="ID_id">
+    <meta property="og:site_name" content="BETACE">
+    <meta property="og:author" content="BETACE">
+    <meta property="og:image" content="https://s3.amplittlegiant.com/betace/banners/betace-banner.jpg">
+    <meta name="og:locale" content="pt_BR">
     <meta name="og:type" content="website">
     <meta name="rating" content="general">
-    <meta name="author" content="DRAGON222">
+    <meta name="author" content="BETACE">
     <meta name="distribution" content="global">
-    <meta name="publisher" content="DRAGON222">
+    <meta name="publisher" content="BETACE">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="https://cdn.amplittlegiant.com/favicon/dragon222.webp" type="image/x-icon">
+    <link rel="shortcut icon" href="https://s3.amplittlegiant.com/betace/betace.png" type="image/x-icon">
     <link rel="canonical" href="<?=$canonical;?>">
     <style amp-boilerplate>
         body {
@@ -453,20 +453,20 @@
         <div class="sap">
             <div class="seosap">
                 <br>
-                <amp-img height="70" width="320" alt="DRAGON222"
-                    src="https://cdn.amplittlegiant.com/logo/dragon222.webp"></amp-img>
+                <amp-img height="90" width="320" alt="BETACE"
+                    src="https://s3.amplittlegiant.com/betace/betace-logo.png"></amp-img>
                 <br>
                 <br>
                 <div>
-                    <a href="https://dragon222vpn.net/masukdisini" target="_blank" rel="noopener noreferrer nofollow">
-                        <amp-img height="220" width="250" alt="DRAGON222" src="https://cdn.amplittlegiant.com/banners/dragon222-banner.jpg"></amp-img>
+                    <a href="https://ffh.betace.com/register" target="_blank" rel="noopener noreferrer nofollow">
+                        <amp-img height="220" width="250" alt="BETACE" src="https://s3.amplittlegiant.com/betace/banners/betace-banner.jpg"></amp-img>
                     </a>
                 </div>
                 <h2><?=$title;?></h2>
                 <div class="s-a-p">
-                    <a href="https://dragon222vpn.net/daftarsini" target="_blank" rel="noopener noreferrer nofollow">
+                    <a href="https://ffh.betace.com/register" target="_blank" rel="noopener noreferrer nofollow">
                         <button class="btn2">
-                            <strong>DAFTAR DRAGON222</strong>
+                            <strong>Codastre-se BETACE</strong>
                             <div id="container-stars">
                                 <div id="stars"></div>
                             </div>
@@ -477,13 +477,13 @@
                         </button>
                     </a>
                     <br>
-                    <a href="https://dragon222vpn.net/masukdisini" target="_blank" rel="noopener noreferrer nofollow"
-                        class="block">LOGIN</a>
-                    <a href="https://dragon222vpn.net/daftarsini" target="_blank" rel="noopener noreferrer nofollow"
-                        class="block">DAFTAR</a>
+                    <a href="https://ffh.betace.com/register" target="_blank" rel="noopener noreferrer nofollow"
+                        class="block">Entrar</a>
+                    <a href="https://ffh.betace.com/register" target="_blank" rel="noopener noreferrer nofollow"
+                        class="block">Codastre-se</a>
                 </div>
             </div>
-            <span style="text-align: center">&copy; <strong>DRAGON222</strong> <?=date('Y');?> </span>
+            <span style="text-align: center">&copy; <strong>BETACE</strong> <?=date('Y');?> </span>
         </div>
     </main>
 </body>
