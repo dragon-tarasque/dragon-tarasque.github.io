@@ -4,7 +4,7 @@
         return header('Location: /');
     }
     $canonical = $_GET['canonical'] ?? '';
-    $title = $_GET['title'] ?? 'Betace: A Casa de Apostas para os Amantes de Emoção e Segurança ' . date('Y');
+    $title = $_GET['title'] ?? 'Fortune Tiger na BETACE: Lucros Fáceis, Pagamentos em 3 Minutos e Ganhos Até x500';
     $description = $_GET['description'] ?? 'Descubra como ganhar com Fortune Tiger na BETACE em 2024! Pagamentos instantâneos via Pix, bônus e cashback semanal garantem uma experiência lucrativa.';
 ?>
 <!DOCTYPE html>
@@ -15,7 +15,7 @@
     <meta http-equiv="content-language" content="id">
     <title><?=$title;?></title>
     <meta name="description" content="<?=$description;?>">
-    <meta name="keywords" content="betace, fortune tigre">
+    <meta name="keywords" content="fortune tiger. fortuna tigre, jogo do tigre, jogo do tigrinho, betace">
     <meta name="robots" content="index, follow">
     <meta name="page-locale" content="pt,en">
     <meta content="true" name="HandheldFriendly">
