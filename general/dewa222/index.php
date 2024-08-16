@@ -36,7 +36,7 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="https://cdn.amplittlegiant.com/favicon/dragon222.webp" type="image/x-icon">
+    <link rel="shortcut icon" href="https://s3.amplittlegiant.com/dewa222/favicon.png" type="image/x-icon">
     <link rel="canonical" href="<?=$canonical;?>">
     <style amp-boilerplate>
         body {
