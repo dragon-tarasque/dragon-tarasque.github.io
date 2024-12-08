@@ -6,556 +6,484 @@
     }
     $canonical = $_GET['canonical'] ?? '';
 ?>
-
 <!DOCTYPE html>
 <html amp lang="id">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width,maximum-scale=1" />
-        <meta http-equiv="content-language" content="id" />
-        <title>
-            SPACEMAN: Situs Link Slot Spaceman Maxwin Akun Demo Pragmatic Play
-        </title>
-        <meta name="google-site-verification" content="PiepH31-EDamS2zQauwH-FeX9iU6NKGly-2ST16UuKE" />
-        <meta name="description" content="spaceman merupakan slot gacor gampang menang dari prvider terkenal pragmatic play. Login dan daftar spaceman slot sekarang!" />
-        <meta name="keywords" content="spaceman, spaceman slot, situs spaceman, spaceman pragmatic, link spaceman, demo spaceman" />
-        <meta name="robots" content="index, follow" />
-        <meta name="page-locale" content="id" />
-        <meta content="true" name="HandheldFriendly" />
-        <meta content="width" name="MobileOptimized" />
-        <meta property="og:title" content="SPACEMAN: Situs Link Slot Spaceman Maxwin Akun Demo Pragmatic Play" />
-        <meta property="og:description" content="spaceman merupakan slot gacor gampang menang dari prvider terkenal pragmatic play. Login dan daftar spaceman slot sekarang!" />
-        <meta property="og:url" content="<?=$_GET['canonical'];?>" />
-        <meta property="og:site_name" content="OLYMPUS88" />
-        <meta property="og:author" content="OLYMPUS88" />
-        <meta property="og:image" content="amp/olympus88_judi_online.jpg" />
-        <meta name="og:locale" content="ID_id" />
-        <meta name="og:type" content="website" />
-        <meta name="rating" content="general" />
-        <meta name="author" content="OLYMPUS88" />
-        <meta name="distribution" content="global" />
-        <meta name="publisher" content="OLYMPUS88" />
-        <script async src="https://cdn.ampproject.org/v0.js"></script>
-        <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&amp;display=swap" />
-        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&amp;display=swap" rel="stylesheet" />
-        <link rel="shortcut icon" href="amp/favicon.png" type="image/x-icon" />
-        <link rel="canonical" href="<?=$_GET['canonical'];?>" />
-        <style amp-boilerplate>
-            body {
-                -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-                -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-                -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-                animation: -amp-start 8s steps(1, end) 0s 1 normal both;
-            }
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width,maximum-scale=1" />
+		<meta http-equiv="content-language" content="id" />
+		<title>OLYMPUS88: Situs Judi Slot Online Gacor Hari Ini & Slot88 Terpercaya</title>
+		<meta name="description" content="OLYMPUS88 merupakan situs judi slot online gacor hari ini dan slot88 terpercaya dengan pilihan game rekomendasi terbaik sehingga berguna membantu Anda menang lebih mudah." />
+		<meta name="keywords" content="OLYMPUS88,slot OLYMPUS88,slot gacor,slot thailand" />
+		<meta name="robots" content="index, follow" />
+		<meta name="page-locale" content="id,en" />
+		<meta content="true" name="HandheldFriendly" />
+		<meta content="width" name="MobileOptimized" />
+		<meta property="og:title" content="OLYMPUS88: Situs Judi Slot Online Gacor Hari Ini & Slot88 Terpercaya" />
+		<meta property="og:description" content="OLYMPUS88 merupakan situs judi slot online gacor hari ini dan slot88 terpercaya dengan pilihan game rekomendasi terbaik sehingga berguna membantu Anda menang lebih mudah." />
+		<meta property="og:url" content="<?=$canonical;?>" />
+		<meta property="og:site_name" content="OLYMPUS88" />
+		<meta property="og:author" content="OLYMPUS88" />
+		<meta property="og:image" content="https://s3.amplittlegiant.com/olmypus88/banners/olympus88.jpg" />
+		<meta name="og:locale" content="ID_id" />
+		<meta name="og:type" content="website" />
+		<meta name="rating" content="general" />
+		<meta name="author" content="OLYMPUS88" />
+		<meta name="distribution" content="global" />
+		<meta name="publisher" content="OLYMPUS88" />
+		<script async src="https://cdn.ampproject.org/v0.js"></script>
+		<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" />
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet" />
+		<link rel="shortcut icon" href="https://cdn-storage.amplittlegiant.com/storage/favicon/4AUnrTn94NDWIhgYca9rQeSgl2uec8vO8pqf7jXn.webp" type="image/x-icon" />
+		<link rel="canonical" href="<?=$canonical;?>" />
+		<style amp-boilerplate>
+			body {
+			    -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+			    -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+			    -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+			    animation: -amp-start 8s steps(1, end) 0s 1 normal both
+			}
 
-            @-webkit-keyframes -amp-start {
-                from {
-                    visibility: hidden;
-                }
+			@-webkit-keyframes -amp-start {
+			    from {
+			        visibility: hidden
+			    }
 
-                to {
-                    visibility: visible;
-                }
-            }
+			    to {
+			        visibility: visible
+			    }
+			}
 
-            @-moz-keyframes -amp-start {
-                from {
-                    visibility: hidden;
-                }
+			@-moz-keyframes -amp-start {
+			    from {
+			        visibility: hidden
+			    }
 
-                to {
-                    visibility: visible;
-                }
-            }
+			    to {
+			        visibility: visible
+			    }
+			}
 
-            @-ms-keyframes -amp-start {
-                from {
-                    visibility: hidden;
-                }
+			@-ms-keyframes -amp-start {
+			    from {
+			        visibility: hidden
+			    }
 
-                to {
-                    visibility: visible;
-                }
-            }
+			    to {
+			        visibility: visible
+			    }
+			}
 
-            @-o-keyframes -amp-start {
-                from {
-                    visibility: hidden;
-                }
+			@-o-keyframes -amp-start {
+			    from {
+			        visibility: hidden
+			    }
 
-                to {
-                    visibility: visible;
-                }
-            }
+			    to {
+			        visibility: visible
+			    }
+			}
 
-            @keyframes -amp-start {
-                from {
-                    visibility: hidden;
-                }
+			@keyframes -amp-start {
+			    from {
+			        visibility: hidden
+			    }
 
-                to {
-                    visibility: visible;
-                }
-            }
-        </style>
-        <noscript>
-            <style amp-boilerplate>
-                body {
-                    -webkit-animation: none;
-                    -moz-animation: none;
-                    -ms-animation: none;
-                    animation: none;
-                }
-            </style>
-        </noscript>
-        <style amp-custom>
-            * {
-                box-sizing: border-box;
-                margin: 0;
-                padding: 0;
-            }
+			    to {
+			        visibility: visible
+			    }
+			}
+		</style>
+		<noscript>
+			<style amp-boilerplate>
+				body {
+				    -webkit-animation: none;
+				    -moz-animation: none;
+				    -ms-animation: none;
+				    animation: none
+				}
+			</style>
+		</noscript>
+		<style amp-custom>
+			* {
+			    box-sizing: border-box;
+			    margin: 0;
+			    padding: 0
+			}
 
-            :focus {
-                outline: 0;
-            }
+			:focus {
+			    outline: 0
+			}
 
-            ::-webkit-scrollbar {
-                display: none;
-            }
+			::-webkit-scrollbar {
+			    display: none
+			}
 
-            a,
-            a:after,
-            a:hover,
-            a:visited {
-                text-decoration: none;
-                color: #fff;
-            }
+			a,
+			a:after,
+			a:hover,
+			a:visited {
+			    text-decoration: none;
+			    color: #fff
+			}
 
-            html {
-                max-width: 500px;
-                margin: 0 auto;
-                background-color: #000;
-                background-image: url(https://media.tenor.com/TZaIBNauQfAAAAAC/stars-galaxy.gif);
-            }
+			html {
+			    max-width: 500px;
+			    margin: 0 auto;
+			    background-color: #000;
+			    background-image: url(https://media.tenor.com/TZaIBNauQfAAAAAC/stars-galaxy.gif)
+			}
 
-            body {
-                color: #fff;
-                font-family: "Noto Sans", arial, sans-serif;
-            }
+			body {
+			    color: #fff;
+			    font-family: 'Noto Sans', arial, sans-serif
+			}
 
-            article {
-                padding: 0 10px;
-            }
+			.sap {
+			    display: grid;
+			    min-height: 100vh
+			}
 
-            h1 {
-                color: #d8ac54;
-            }
-            article a strong {
-                color: #8f51ea;
-            }
-            
-            }
-            h1 {
-                text-align: center;
-            }
+			.seosap {
+			    margin: auto;
+			    text-align: center
+			}
 
-            .mb-5 {
-                margin-bottom: 5%;
-            }
+			.s-a-p {
+			    display: inline-grid;
+			    margin: .88rem 0
+			}
 
-            .sap {
-                display: grid;
-                min-height: 100vh;
-            }
+			.s-a-p .contole {
+			    padding: .5rem 3.8rem;
+			    background: #33333388;
+			    margin-bottom: .5rem;
+			    border-radius: .38rem;
+			    box-shadow: 0 -1px #ccb38a88;
+			    letter-spacing: 1px
+			}
 
-            .seosap {
-                margin: auto;
-                text-align: center;
-            }
+			.s-a-p a.btn1 {
+			    color: #eee;
+			    background-image: linear-gradient(-45deg, #f18902 0, #c44f01 100%);
+			    box-shadow: none;
+			    font-weight: 700
+			}
 
-            .s-a-p {
-                display: inline-grid;
-                margin: 0.88rem 0;
-            }
+			.imghero {
+			    box-shadow: inset 0 0 0 8px #888;
+			    border-radius: 8px
+			}
 
-            .s-a-p .contole {
-                padding: 0.5rem 3.8rem;
-                background: #33333388;
-                margin-bottom: 0.5rem;
-                border-radius: 0.38rem;
-                box-shadow: 0 -1px #ccb38a88;
-                letter-spacing: 1px;
-            }
+			.jptoto-container {
+			    display: flex;
+			    background: linear-gradient(-45deg, #f18902 0, #c44f01 100%);
+			    width: 250px;
+			    height: 40px;
+			    align-items: center;
+			    justify-content: space-around;
+			    border-radius: 10px;
+			    margin: auto
+			}
 
-            .s-a-p a.btn1 {
-                color: #eee;
-                background-image: linear-gradient(-45deg, #f18902 0, #c44f01 100%);
-                box-shadow: none;
-                font-weight: 700;
-            }
+			.jptoto {
+			    outline: 0;
+			    border: 0;
+			    width: 40px;
+			    height: 40px;
+			    border-radius: 50%;
+			    background-color: transparent;
+			    display: flex;
+			    align-items: center;
+			    justify-content: center;
+			    color: #fff;
+			    transition: all ease-in-out .3s;
+			    cursor: pointer
+			}
 
-            .imghero {
-                box-shadow: inset 0 0 0 8px #888;
-                border-radius: 8px;
-            }
+			.jptoto:hover {
+			    transform: translateY(-3px)
+			}
 
-            .olympus88-icon-container {
-                display: flex;
-                background: linear-gradient(-45deg, #f18902 0, #c44f01 100%);
-                width: 250px;
-                height: 40px;
-                align-items: center;
-                justify-content: space-around;
-                border-radius: 10px;
-                margin: auto;
-            }
+			.icon {
+			    font-size: 20px
+			}
 
-            .olympus88-icon {
-                outline: 0;
-                border: 0;
-                width: 40px;
-                height: 40px;
-                border-radius: 50%;
-                background-color: transparent;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                color: #fff;
-                transition: all ease-in-out 0.3s;
-                cursor: pointer;
-            }
+			.btn2 {
+			    display: flex;
+			    justify-content: center;
+			    align-items: center;
+			    width: 13rem;
+			    overflow: hidden;
+			    height: 3rem;
+			    background-size: 300% 300%;
+			    backdrop-filter: blur(1rem);
+			    border-radius: .38rem;
+			    transition: .5s;
+			    animation: gradient_301 5s ease infinite;
+			    border: double 4px transparent;
+			    background-image: linear-gradient(#212121, #212121), linear-gradient(137.48deg, #ffdb3b 10%, #a00 45%, #8f51ea 67%, #04f 87%);
+			    background-origin: border-box;
+			    background-clip: content-box, border-box
+			}
 
-            .olympus88-icon:hover {
-                transform: translateY(-3px);
-            }
+			#container-stars {
+			    position: absolute;
+			    z-index: -1;
+			    width: 100%;
+			    height: 100%;
+			    overflow: hidden;
+			    transition: .5s;
+			    backdrop-filter: blur(1rem);
+			    border-radius: .38rem
+			}
 
-            .icon {
-                font-size: 20px;
-            }
+			strong {
+			    z-index: 2;
+			    letter-spacing: 0;
+			    color: #fff;
+			    text-shadow: #fff
+			}
 
-            .btn2 {
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                width: 13rem;
-                overflow: hidden;
-                height: 3rem;
-                background-size: 300% 300%;
-                backdrop-filter: blur(1rem);
-                border-radius: 0.38rem;
-                transition: 0.5s;
-                animation: gradient_301 5s ease infinite;
-                border: double 4px transparent;
-                background-image: linear-gradient(#212121, #212121), linear-gradient(137.48deg, #ffdb3b 10%, #a00 45%, #8f51ea 67%, #04f 87%);
-                background-origin: border-box;
-                background-clip: content-box, border-box;
-            }
+			#glow {
+			    position: absolute;
+			    display: flex;
+			    width: 12rem
+			}
 
-            #container-stars {
-                position: absolute;
-                z-index: -1;
-                width: 100%;
-                height: 100%;
-                overflow: hidden;
-                transition: 0.5s;
-                backdrop-filter: blur(1rem);
-                border-radius: 0.38rem;
-            }
+			.circle {
+			    width: 100%;
+			    height: 30px;
+			    filter: blur(2rem);
+			    animation: pulse_3011 4s infinite;
+			    z-index: -1
+			}
 
-            strong {
-                z-index: 2;
-                letter-spacing: 0;
-                color: #fff;
-                text-shadow: #fff;
-            }
+			.circle:nth-of-type(1) {
+			    background: rgba(254, 83, 186, .636)
+			}
 
-            #glow {
-                position: absolute;
-                display: flex;
-                width: 12rem;
-            }
+			.circle:nth-of-type(2) {
+			    background: rgba(142, 81, 234, .704)
+			}
 
-            .circle {
-                width: 100%;
-                height: 30px;
-                filter: blur(2rem);
-                animation: pulse_3011 4s infinite;
-                z-index: -1;
-            }
+			.btn2:hover #container-stars {
+			    z-index: 1;
+			    background-color: #212121
+			}
 
-            .circle:nth-of-type(1) {
-                background: rgba(254, 83, 186, 0.636);
-            }
+			.btn2:hover {
+			    transform: scale(1.1)
+			}
 
-            .circle:nth-of-type(2) {
-                background: rgba(142, 81, 234, 0.704);
-            }
+			.btn2:active {
+			    border: double 4px #a00;
+			    background-origin: border-box;
+			    background-clip: content-box, border-box;
+			    animation: none
+			}
 
-            .btn2:hover #container-stars {
-                z-index: 1;
-                background-color: #212121;
-            }
+			.btn2:active .circle {
+			    background: #a00
+			}
 
-            .btn2:hover {
-                transform: scale(1.1);
-            }
+			#stars {
+			    position: relative;
+			    background: 0 0;
+			    width: 200rem;
+			    height: 200rem
+			}
 
-            .btn2:active {
-                border: double 4px #a00;
-                background-origin: border-box;
-                background-clip: content-box, border-box;
-                animation: none;
-            }
+			#stars::after {
+			    content: "";
+			    position: absolute;
+			    top: -10rem;
+			    left: -100rem;
+			    width: 100%;
+			    height: 100%;
+			    animation: animStarRotate 90s linear infinite
+			}
 
-            .btn2:active .circle {
-                background: #a00;
-            }
+			#stars::after {
+			    background-color: rgb(7, 93, 27);
+			    background: linear-gradient(90deg, rgba(7, 93, 27, 1) 10%, rgba(2, 0, 36, 1) 98%);
+			    background-size: 50px 50px
+			}
 
-            #stars {
-                position: relative;
-                background: 0 0;
-                width: 200rem;
-                height: 200rem;
-            }
+			#stars::before {
+			    content: "";
+			    position: absolute;
+			    top: 0;
+			    left: -50%;
+			    width: 170%;
+			    height: 500%;
+			    animation: animStar 60s linear infinite
+			}
 
-            #stars::after {
-                content: "";
-                position: absolute;
-                top: -10rem;
-                left: -100rem;
-                width: 100%;
-                height: 100%;
-                animation: animStarRotate 90s linear infinite;
-            }
+			#stars::before {
+			    background-color: rgb(7, 93, 27);
+			    background: linear-gradient(90deg, rgba(7, 93, 27, 1) 10%, rgba(2, 0, 36, 1) 98%);
+			    background-size: 50px 50px;
+			    opacity: .5
+			}
 
-            #stars::after {
-                background-image: rgb(7, 93, 27);
-                background: linear-gradient(90deg, rgba(7, 93, 27, 1) 10%, rgba(2, 0, 36, 1) 98%);
-                background-size: 50px 50px;
-            }
+			@keyframes animStar {
+			    from {
+			        transform: translateY(0)
+			    }
 
-            #stars::before {
-                content: "";
-                position: absolute;
-                top: 0;
-                left: -50%;
-                width: 170%;
-                height: 500%;
-                animation: animStar 60s linear infinite;
-            }
+			    to {
+			        transform: translateY(-135rem)
+			    }
+			}
 
-            #stars::before {
-                background-image: rgb(7, 93, 27);
-                background: linear-gradient(90deg, rgba(7, 93, 27, 1) 10%, rgba(2, 0, 36, 1) 98%);
-                background-size: 50px 50px;
-                opacity: 0.5;
-            }
+			@keyframes animStarRotate {
+			    from {
+			        transform: rotate(360deg)
+			    }
 
-            @keyframes animStar {
-                from {
-                    transform: translateY(0);
-                }
+			    to {
+			        transform: rotate(0)
+			    }
+			}
 
-                to {
-                    transform: translateY(-135rem);
-                }
-            }
+			@keyframes gradient_301 {
+			    0% {
+			        background-position: 0 50%
+			    }
 
-            @keyframes animStarRotate {
-                from {
-                    transform: rotate(360deg);
-                }
+			    50% {
+			        background-position: 100% 50%
+			    }
 
-                to {
-                    transform: rotate(0);
-                }
-            }
+			    100% {
+			        background-position: 0 50%
+			    }
+			}
 
-            @keyframes gradient_301 {
-                0% {
-                    background-position: 0 50%;
-                }
+			@keyframes pulse_3011 {
+			    0% {
+			        transform: scale(.75);
+			        box-shadow: 0 0 0 0 rgba(0, 0, 0, .7)
+			    }
 
-                50% {
-                    background-position: 100% 50%;
-                }
+			    70% {
+			        transform: scale(1);
+			        box-shadow: 0 0 0 10px transparent
+			    }
 
-                100% {
-                    background-position: 0 50%;
-                }
-            }
+			    100% {
+			        transform: scale(.75);
+			        box-shadow: 0 0 0 0 transparent
+			    }
+			}
 
-            @keyframes pulse_3011 {
-                0% {
-                    transform: scale(0.75);
-                    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.7);
-                }
+			.block1 {
+			    position: relative;
+			    margin: auto;
+			    min-width: 100px;
+			    padding: 5px 10px;
+			    background: linear-gradient(0deg, #3e3ea3, #272727);
+			    color: #fff;
+			    cursor: pointer;
+			    margin-bottom: 20px
+			}
 
-                70% {
-                    transform: scale(1);
-                    box-shadow: 0 0 0 10px transparent;
-                }
+			.block1:after,
+			.block1:before {
+			    content: '';
+			    position: absolute;
+			    right: -3px;
+			    bottom: -3px;
+			    background-color: rgb(83, 43, 229);
+			    background: linear-gradient(90deg, rgba(83, 43, 229, 1) 10%, rgba(2, 0, 36, 1) 98%);
+			    background-size: 400%;
+			    width: calc(100% + 6px);
+			    height: calc(100% + 6px);
+			    z-index: -1;
+			    animation: steam 5s linear infinite;
+			    border-radius: 10px
+			}
 
-                100% {
-                    transform: scale(0.75);
-                    box-shadow: 0 0 0 0 transparent;
-                }
-            }
+			.block {
+			    position: relative;
+			    margin: auto 0;
+			    min-width: 100px;
+			    padding: 5px 10px;
+			    background: linear-gradient(0deg, #3e3ea3, #272727);
+			    color: #fff;
+			    cursor: pointer;
+			    margin-bottom: 20px
+			}
 
-            .block1 {
-                position: relative;
-                margin: auto;
-                min-width: 100px;
-                padding: 5px 10px;
-                background: linear-gradient(0deg, #3e3ea3, #272727);
-                color: #fff;
-                cursor: pointer;
-                margin-bottom: 20px;
-            }
+			.block:after,
+			.block:before {
+			    content: '';
+			    position: absolute;
+			    right: -3px;
+			    bottom: -3px;
+			    background-color: rgb(83, 43, 229);
+			    background: linear-gradient(90deg, rgba(83, 43, 229, 1) 10%, rgba(2, 0, 36, 1) 98%);
+			    background-size: 400%;
+			    width: calc(100% + 6px);
+			    height: calc(100% + 6px);
+			    z-index: -1;
+			    animation: steam 5s linear infinite
+			}
 
-            .block1:after,
-            .block1:before {
-                content: "";
-                position: absolute;
-                right: -3px;
-                bottom: -3px;
-                background-image: rgb(83, 43, 229);
-                background: linear-gradient(90deg, rgba(83, 43, 229, 1) 10%, rgba(2, 0, 36, 1) 98%);
-                background-size: 400%;
-                width: calc(100% + 6px);
-                height: calc(100% + 6px);
-                z-index: -1;
-                animation: steam 5s linear infinite;
-                border-radius: 10px;
-            }
+			@keyframes steam {
+			    0% {
+			        background-position: 0 0
+			    }
 
-            .block {
-                position: relative;
-                margin: auto 0;
-                min-width: 100px;
-                padding: 5px 10px;
-                background: linear-gradient(0deg, #3e3ea3, #272727);
-                color: #fff;
-                cursor: pointer;
-                margin-bottom: 20px;
-            }
+			    50% {
+			        background-position: 400% 0
+			    }
 
-            .block:after,
-            .block:before {
-                content: "";
-                position: absolute;
-                right: -3px;
-                bottom: -3px;
-                background-image: rgb(83, 43, 229);
-                background: linear-gradient(90deg, rgba(83, 43, 229, 1) 10%, rgba(2, 0, 36, 1) 98%);
-                background-size: 400%;
-                width: calc(100% + 6px);
-                height: calc(100% + 6px);
-                z-index: -1;
-                animation: steam 5s linear infinite;
-            }
+			    100% {
+			        background-position: 0 0
+			    }
+			}
 
-            @keyframes steam {
-                0% {
-                    background-position: 0 0;
-                }
-
-                50% {
-                    background-position: 400% 0;
-                }
-
-                100% {
-                    background-position: 0 0;
-                }
-            }
-
-            .block:after {
-                filter: blur(50px);
-            }
-            article p {
-                margin-bottom: 1em;
-                text-align: justify;
-            }
-            article h1,
-            article h2 {
-                margin-bottom: 1em;
-                text-align: center;
-            }
-            article h2,
-            article h3 {
-                color: #d8ac54;
-            }
-            article h1 {
-                font-size: 1.5em;
-            }
-            article h2 {
-                font-size: 1.3em;
-            }
-            article h3 {
-                font-size: 1.1em;
-            }
-        </style>
-    </head>
-    <body>
-        <main>
-            <div class="sap">
-                <div class="seosap">
-                    <br />
-                    <amp-img height="70" width="285" alt="OLYMPUS88" src="amp/logoolympus88.png"></amp-img>
-                    <br />
-                    <br />
-                    <div class="olympus88-icon-container block1">
-                        <a href="https://webolympus88.net/daftarbroo">
-                            <button class="olympus88-icon">
-                                <img src="/amp/toa.png" width="20px" />
-                            </button>
-                        </a>
-                        <a href="https://webolympus88.net/masukbro">
-                            <button class="olympus88-icon">
-                                <img src="/amp/login.png" width="20px" />
-                            </button>
-                        </a>
-                        <a href="https://webolympus88.net/daftarbroo">
-                            <button class="olympus88-icon">
-                                <img src="/amp/register.png" width="20px" />
-                            </button>
-                        </a>
-                        <a href="https://wa.me/qr/K5KGF765UH76O1">
-                            <button class="olympus88-icon">
-                                <img src="/amp/livechat.png" width="20px" />
-                            </button>
-                        </a>
-                    </div>
-                    <div>
-                        <a href="https://webolympus88.net/daftarbroo" target="_blank" rel="noopener noreferrer nofollow">
-                            <amp-img height="220" width="250" alt="OLYMPUS88" src="/amp/olympus88_judi_online.jpg"></amp-img>
-                        </a>
-                    </div>
-                    <div class="s-a-p">
-                        <a href="https://webolympus88.net/daftarbroo" target="_blank" rel="noopener noreferrer nofollow">
-                            <button class="btn2">
-                                <strong>DAFTAR OLYMPUS88</strong>
-                                <div id="container-stars">
-                                    <div id="stars"></div>
-                                </div>
-                                <div id="glow">
-                                    <div class="circle"></div>
-                                    <div class="circle"></div>
-                                </div>
-                            </button>
-                        </a>
-                        <br />
-                        <a href="https://webolympus88.net/masukbro" target="_blank" rel="noopener noreferrer nofollow" class="block">LOGIN</a>
-                        <a href="https://webolympus88.net/daftarbroo" target="_blank" rel="noopener noreferrer nofollow" class="block">DAFTAR</a>
-                    </div>
-                </div>
-            </div>
-            <h1 style="text-align: center;">
-                SPACEMAN: Situs Link Slot Spaceman Maxwin Akun Demo Pragmatic Play
-            </h1>
-            <div class="s-a-p">
-                <span style="text-align: center; margin-top: 5%;">&copy; <strong>OLYMPUS88</strong> 2024 </span>
-            </div>
-        </main>
-    </body>
+			.block:after {
+			    filter: blur(50px)
+			}
+		</style>
+	</head>
+	<body>
+		<main>
+			<div class="sap">
+				<div class="seosap">
+					<br />
+					<amp-img height="90" width="320" alt="OLYMPUS88" src="https://s3.amplittlegiant.com/olmypus88/olympus88-logo.png"></amp-img>
+					<br />
+					<br />
+					<div>
+						<a href="https://webolympus88.net/masukbro" target="_blank" rel="noopener noreferrer nofollow">
+							<amp-img height="220" width="250" alt="OLYMPUS88" src="https://s3.amplittlegiant.com/olmypus88/banners/olympus88.jpg"></amp-img>
+						</a>
+					</div>
+					<h2>OLYMPUS88: Situs Judi Slot Online Gacor Hari Ini & Slot88 Terpercaya</h2>
+					<div class="s-a-p">
+						<a href="https://webolympus88.net/daftarbroo" target="_blank" rel="noopener noreferrer nofollow">
+							<button class="btn2">
+								<strong>DAFTAR OLYMPUS88</strong>
+								<div id="container-stars">
+									<div id="stars"></div>
+								</div>
+								<div id="glow">
+									<div class="circle"></div>
+									<div class="circle"></div>
+								</div>
+							</button>
+						</a>
+						<br />
+						<a href="https://webolympus88.net/masukbro" target="_blank" rel="noopener noreferrer nofollow" class="block">LOGIN</a>
+						<a href="https://webolympus88.net/daftarbroo" target="_blank" rel="noopener noreferrer nofollow" class="block">DAFTAR</a>
+					</div>
+				</div>
+				<span style="text-align: center">&copy; <strong>OLYMPUS88</strong> 2024 </span>
+			</div>
+		</main>
+	</body>
 </html>
